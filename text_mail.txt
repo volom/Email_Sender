@@ -1,0 +1,5 @@
+Hi!
+
+This test email is sent with python
+
+Kind regards, Guido van Rossum
